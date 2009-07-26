@@ -1,0 +1,143 @@
+0
+00:00:00,000 --> 00:00:00,010
+
+1
+00:00:00,010 --> 00:00:03,770
+Salut, numele meu este Mike Beltzner și vreau să povestim despre Firefox 3.5
+
+2
+00:00:03,870 --> 00:00:05,910
+Cel mai recent navigator web de la Mozilla.
+
+3
+00:00:05,860 --> 00:00:07,840
+Acesta este cel mai rapid Firefox de până acum.
+
+4
+00:00:07,940 --> 00:00:09,930
+Ce înseamnă acest lucru pentru tine...
+
+5
+00:00:10,030 --> 00:00:13,900
+Este că paginile web vor fi mai rapide, site-urile complete vor fi și mai funcționale.
+
+6
+00:00:14,000 --> 00:00:18,370
+În această versiune chiar ne-am concentrat asupra faptului ca datele tale să rămână securizate și personale.
+
+7
+00:00:18,470 --> 00:00:21,650
+Aducem un nou mod „Privat” de navigare care poate fi găsit în meniul „Unelte”.
+
+8
+00:00:21,750 --> 00:00:25,230
+Odată activat acest mod asigură faptul ca nimic întâlnit pe net nu va fi reținut.
+
+9
+00:00:25,330 --> 00:00:29,050
+Iar paginile accesate și „cookie”-urile vor fi salvate pe disc.
+
+10
+00:00:29,150 --> 00:00:32,830
+Odată ce modul a fost dezactivat toate acele date sunt distruse fără urmă.
+
+11
+00:00:32,930 --> 00:00:36,110
+Poate trebuie să accesezi o pagină de care nu vrei să afle nimeni.
+
+12
+00:00:36,210 --> 00:00:40,380
+Să zicem că, cumperi un cadou pentru cineva și nu vrei să se afle adresa magazinului web.
+
+13
+00:00:40,480 --> 00:00:43,910
+Așa, oricând poți deschide „Istoricul” navigatorului. Alege adresa web.
+
+14
+00:00:44,010 --> 00:00:46,590
+Apoi clic dreapta și „Uită această adresă”.
+
+15
+00:00:46,690 --> 00:00:49,570
+Și navigatorul va șterge orice urmă a accesării adresei.
+
+16
+00:00:49,670 --> 00:00:51,850
+Dacă cauți să șterge ultimele ore a navigării pe net. 
+
+17
+00:00:51,950 --> 00:00:54,780
+În meniul „Unelte” există opțiunea „Șterge istoricul recent”.
+
+18
+00:00:54,880 --> 00:01:00,890
+Poți alege: 1 oră, 2 ore, 4 ore sau întregul istoric pentru ziua de astăzi. Și apoi șterge cu un clic.
+
+19
+00:01:00,990 --> 00:01:05,310
+Ai închis o fereastră și nu mai știi cum să ajungi iar la pagina respectivă? Acum o poți recupera!
+
+20
+00:01:05,410 --> 00:01:12,620
+Dacă mergi la meniul „Istoric”. Găsești „Ferestre închise recent”, unde poți selecta ce te interesează și reveni la pagina căutată.
+
+21
+00:01:12,720 --> 00:01:16,490
+Aici nu vorbim doar de o actualizare a navigatorului, aici vorbim și de lucruri noi pentru Internet.
+
+22
+00:01:16,590 --> 00:01:24,190
+Una dintre noile posibilități este suportul pentru filmulețe. Și aici ai libertatea de a face ce vrei: muta în față, înainte, schimba volumul.
+
+23
+00:01:24,290 --> 00:01:28,610
+De asemenea poți da clic dreapta și alege să salveți filmulețul pe calculatorul tău, ca pe o poză.
+
+24
+00:01:28,710 --> 00:01:36,560
+Ce mai este interesant despre filmulețele video libere, este faptul că se poate interacționa direct cu elementele din pagină. Un modul nu ar reuși acest lucru.
+
+25
+00:01:36,660 --> 00:01:40,530
+Altă funcționalitate interesantă este „Navigarea ce știe locația ta”.
+
+26
+00:01:40,630 --> 00:01:55,380
+Dacă o pagină vrea să știe de locația ta, Firefox te va întreba despre acest lucru și apoi va trimite informațiile către țintă, unde cu datele tale se poate crea o hartă sau oferi informații mai relevante sau orice altceva.
+
+27
+00:01:55,480 --> 00:02:00,250
+Printre alte tehnologii interesante de care dispune Firefox 3.5 pot fi:
+
+28
+00:02:00,350 --> 00:02:06,260
+Fonturile descărcabile. Oricine va putea crea pagini folosind fonturi creative de care puteam dispune doar în cărți sau documente personale.
+
+29
+00:02:06,360 --> 00:02:10,490
+Îmbunătățiri CSS, ce oferă posibilități și mai complexe de a stiliza paginile exact cum ne dorim.
+
+30
+00:02:10,590 --> 00:02:17,240
+Alte îmbunătățiri cum ar fi „Firele de execuție web”, SVG, „JSON Native” toate pentru a oferi experiențe și mai bune online.
+
+31
+00:02:17,340 --> 00:02:20,570
+Este important pentru noi să știm că Firefox este plăcut la utilizare pentru voi.
+
+32
+00:02:20,670 --> 00:02:23,550
+De aceea este disponibil în 70 de limbi, pe Windows, Mac și Linux.
+
+33
+00:02:23,650 --> 00:02:30,210
+Firefox este foarte personalizabil. Cu funcționalități ca „Personas”, se poate modifica interfața rapid și simplu.
+
+34
+00:02:30,310 --> 00:02:41,230
+Mai este și numărul mare de module ce pot ușura cumpărăturile pe net, aduce știrile din sportul preferat mai rapid, sau să afli vremea locală. Firefox poate deveni exact ce îți dorești.
+
+35
+00:02:41,330 --> 00:02:52,960
+Cam aceasta este scurta introducere despre Firefox 3.5. Dacă dorești să afli mai multe, mergi la www.firefox.com, sau și mai bine încearcă-l. E simplu la instalare și sperăm să placă!
+

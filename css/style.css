@@ -1,0 +1,66 @@
+html {margin: 0; padding: 0;}
+body {background: #fff url("http://www.mozilla.com/img/tignish/firefox/background-firefox-3.jpg") repeat-x; font-family: Georgia , serif; font-size: 12px; color: #69645B; margin: 0px; padding: 0px; }
+a {text-decoration: underline; color: #0489B7;}
+a:visited {text-decoration: none; color: #0489B7;}
+a:hover {text-decoration: none; color: #0489B7;}
+
+h2 {font-size: 30px;}
+
+#continut {width: 950px; margin: 0px auto 0px; padding: 0 50px;}
+
+#gat {background: transparent url("http://www.mozilla.com/img/tignish/template/header-background.png") no-repeat; height: 56px;}
+#gat ul {font-size: 0px;}
+#gat ul li {background:transparent url(http://www.mozilla.com/img/tignish/template/header-nav-divider.png) no-repeat scroll left top; padding-left:2px; font-family: "Verdana", sans; font-size: 12px;}
+#gat ul li {display:block; float:left; line-height: 56px; position:relative; }
+#gat ul li {display:block; float:left; line-height: 56px; position:relative; padding: 0px;}
+#gat ul li:hover {background:#31526F url(http://www.mozilla.com/img/tignish/template/header-nav-menu-backgrounds.png) no-repeat; color:#FFFFFF;}
+#gat a img {border: none; float: left;}
+#gat ul li a {text-decoration: none; color: #fff; font-weight: bolder; padding: 0px 3px; margin: 0 10px;}
+#gat ul li a:hover {text-decoration: none; color: #eee; font-weight: bolder;}
+
+#cap {width: 900px; height: 370px; margin: 50px auto 0; background: url("http://www.mozilla.com/img/tignish/home/feature-logo.png") no-repeat top left;}
+#cap h1 {padding-top: 120px; font-size: 24px;}
+#cap h1 a {text-decoration: none; color: #4B4742;}
+#cap h1 a:visited {color: #4B4742;}
+#cap h1 a:hover {text-decoration: none; color: #4B4742;}
+#cap h3 {color: #4B4742; margin-bottom: 50px;}
+
+#corp {padding: 20px;}
+#corp h1 {font-size: 18px;}
+#corp p img, #corp p a img {background-color: #fff; padding: 2px; border: 5px solid #CDB380;}
+#corp p a:hover img {background-color: #fff; padding: 2px; border: 5px solid #036564;}
+#corp .mesaj {text-align: center;}
+#corp .mesaj img {display: block; margin: auto; border: none;}
+#corp form {width: 400px; margin: 0 auto;}
+#corp form p label {display: block; width: 150px; float: left;}
+#corp form p input, #corp form p textarea {padding: 2px; width: 100%;}
+#corp form p textarea {height: 200px;}
+#corp code {background-color: #000; color: #fff; padding: 5px; line-height: 20px; width: 100%; display: block;}
+
+#fund {height: 130px; background: #fff url("http://www.mozilla.com/img/tignish/template/footer-border.png") repeat-x; padding-top: 5px;}
+#coada {width: 930px; margin: 20px auto 0px; padding: 10px; font-size: 11px;}
+
+/* Mozilla specific */
+ul.home-download {
+	font-family:verdana,sans-serif;
+	margin-left:30px;
+	width:300px;
+}
+ul.home-download, ul.home-download li {
+	background:transparent none repeat scroll 0 0;
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+a.download-link:hover {
+	background-position:-300px 0;
+	cursor:pointer;
+	text-decoration:none;
+}
+a.download-link {
+	background:transparent url("http://www.mozilla.com/img/tignish/home/download-button.png") no-repeat scroll 0 0;
+	color:#09700B;
+	display:block;
+	height:63px;
+	padding:15px 15px 15px 60px;
+}
